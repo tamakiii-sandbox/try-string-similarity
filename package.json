@@ -5,5 +5,8 @@
   "repository": "git@github.com:tamakiii-sandbox/try-string-similarity.git",
   "author": "tamakiii <tamakiii@users.noreply.github.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "string-similarity": "^2.0.0"
+  }
 }
